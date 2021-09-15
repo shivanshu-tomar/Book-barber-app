@@ -1,0 +1,19 @@
+{
+  "name": "business-logic",
+  "version": "1.0.0",
+  "description": "book your barber ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shivanshu Tomar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongo": "^0.1.0",
+    "mongoose": "^6.0.5",
+    "nodemon": "^2.0.12"
+  }
+}
